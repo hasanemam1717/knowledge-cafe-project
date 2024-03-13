@@ -4,8 +4,8 @@
       "coverimg": "https://i.ibb.co/DMmNwT3/social-media-5187243-1280.png",
       "author": "John Doe",
       "title": "The Mystery of the Lost Treasure",
-      "author-img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
-      "posted-date": "2024-03-13",
+      "author_img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
+      "posted_date": "2024-03-13",
       "hashtag": "#adventure #mystery",
       "reading_time": "45 minutes"
     },
@@ -14,8 +14,8 @@
       "coverimg": "https://i.ibb.co/Sf3qR5j/email-marketing-7579810-1280.png",
       "author": "Jane Smith",
       "title": "The Secret Garden",
-      "author-img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
-      "posted-date": "2024-03-12",
+      "author_img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
+      "posted_date": "2024-03-12",
       "hashtag": "#nature #fiction",
       "reading_time": "30 minutes"
     },
@@ -24,28 +24,28 @@
       "coverimg": "https://i.ibb.co/zbTPRmd/email-4284157-1280-1.png",
       "author": "Alex Johnson",
       "title": "Beyond the Stars",
-      "author-img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
-      "posted-date": "2024-03-11",
+      "author_img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
+      "posted_date": "2024-03-11",
       "hashtag": "#scifi #exploration",
       "reading_time": "60 minutes"
     },
     {
       "id": "004",
-      "coverimg": "https://example.com/cover004.jpg",
+      "coverimg": "https://i.ibb.co/zbTPRmd/email-4284157-1280-1.png",
       "author": "Emily Brown",
       "title": "The Enchanted Forest",
-      "author-img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
-      "posted-date": "2024-03-10",
+      "author_img": "https://i.ibb.co/fxcMLz5/moon-4606246-1280.jpg",
+      "posted_date": "2024-03-10",
       "hashtag": "#fantasy #magic",
       "reading_time": "50 minutes"
     },
     {
       "id": "005",
-      "coverimg": "https://example.com/cover005.jpg",
+      "coverimg": "https://i.ibb.co/DMmNwT3/social-media-5187243-1280.png",
       "author": "Michael Clark",
       "title": "The Time Traveler's Dilemma",
-      "author-img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
-      "posted-date": "2024-03-09",
+      "author_img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
+      "posted_date": "2024-03-09",
       "hashtag": "#timetravel #philosophy",
       "reading_time": "55 minutes"
     }
