@@ -7,7 +7,8 @@
       "author_img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
       "posted_date": "2024-03-13",
       "hashtag": "#adventure #mystery",
-      "reading_time": "45 minutes"
+      "text": "mark as read",
+      "reading_time": "45  "
     },
     {
       "id": "002",
@@ -17,7 +18,8 @@
       "author_img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
       "posted_date": "2024-03-12",
       "hashtag": "#nature #fiction",
-      "reading_time": "30 minutes"
+      "text": "mark as read",
+      "reading_time": "30  "
     },
     {
       "id": "003",
@@ -27,7 +29,8 @@
       "author_img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
       "posted_date": "2024-03-11",
       "hashtag": "#scifi #exploration",
-      "reading_time": "60 minutes"
+      "text": "mark as read",
+      "reading_time": "60  "
     },
     {
       "id": "004",
@@ -37,7 +40,8 @@
       "author_img": "https://i.ibb.co/fxcMLz5/moon-4606246-1280.jpg",
       "posted_date": "2024-03-10",
       "hashtag": "#fantasy #magic",
-      "reading_time": "50 minutes"
+      "text": "mark as read",
+      "reading_time": "50  "
     },
     {
       "id": "005",
@@ -47,7 +51,8 @@
       "author_img": "https://i.ibb.co/rwDXvxM/che-34554-1280.png",
       "posted_date": "2024-03-09",
       "hashtag": "#timetravel #philosophy",
-      "reading_time": "55 minutes"
+      "text": "mark as read",
+      "reading_time": "55  "
     }
   ]
   
