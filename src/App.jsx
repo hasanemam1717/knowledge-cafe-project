@@ -12,21 +12,23 @@ function App() {
   const [reading_time,setReadingTime] =useState(0)
   
 
-  const handleAddToBookmarks =blog => {
+  const handleAddToBookmarks =blog  => {
     const newBookmarks = [...bookmarks, blog]
     setBookMarks(newBookmarks)
-    // console.log(blog)
+  
+
   }
 
-  const readingTimeAddToBookmarks = read =>{
+  const readingTimeAddToBookmarks = (read ,id) =>{
     const reading = parseInt(read)
     const time = parseInt(reading_time)
-    console.log(reading , time)
+    // console.log(reading , time)
     const newReadingTime =reading + time;
     parseInt(newReadingTime)
     setReadingTime(newReadingTime)
-    
-    // console.log('reading time')
+    // console.log('Remove bookmarks id ' ,id)
+    const reamainingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id)
+    setBookMarks(reamainingBookmarks);
   }
 
   return (
